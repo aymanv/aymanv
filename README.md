@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aymanv
-- 👀 I work as a Frontend Web Developer
+- 👀 I'm a Frontend Web Developer
 - 🌱 I Love Javascript Development Stack
